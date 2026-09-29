@@ -25,7 +25,7 @@ function About() {
         <div style={{ flex: '1 1 240px', textAlign: 'center' }}>
           <img 
             src="image0.jpg" 
-            alt="Profile Headshot"
+            alt="portfolio/public/image0.jpg"
             style={{
               width: '200px',
               height: '200px',
