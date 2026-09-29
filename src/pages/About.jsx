@@ -24,7 +24,7 @@ function About() {
         {/* Profile Image (Using a clean placeholder avatar that you can replace with your photo) */}
         <div style={{ flex: '1 1 240px', textAlign: 'center' }}>
           <img 
-            src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80" 
+            src="image0.jpg" 
             alt="Profile Headshot"
             style={{
               width: '200px',
@@ -59,8 +59,8 @@ function About() {
 
           {/* Link to PDF Resume */}
           <a 
-            href="/resume.pdf" 
-            target="_blank" 
+            href="/resume.pdf"
+            download="Loshika_Pragasam_Resume.pdf"
             rel="noopener noreferrer"
             style={{
               display: 'inline-flex',
@@ -75,7 +75,7 @@ function About() {
               fontSize: '15px'
             }}
           >
-            📄 View / Download Resume (PDF)
+            📄 View / Download Resume (resume.pdf)
           </a>
         </div>
       </div>

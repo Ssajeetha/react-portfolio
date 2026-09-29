@@ -15,22 +15,22 @@ function Projects() {
       description: "A smart pantry inventory system designed to track perishables and notify users before food expires to eliminate domestic waste.",
       outcome: "Designed full software requirements specification (SRS), UML class diagrams, and automated reminder logic reducing food waste by an estimated 35%."
     },
-    // {
-    //   id: 2,
-    //   title: "Campus Student Marketplace",
-    //   role: "Full-Stack Developer",
-    //   image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&auto=format&fit=crop&q=80",
-    //   description: "A collaborative web portal for college students to securely buy, sell, and exchange used textbooks and study hardware.",
-    //   outcome: "Implemented secure user authentication, responsive product search, and RESTful API endpoints with MongoDB Atlas integration."
-    // },
-    // {
-    //   id: 3,
-    //   title: "Interactive Weather & Travel Dashboard",
-    //   role: "Frontend Engineer (React & API Integration)",
-    //   image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&auto=format&fit=crop&q=80",
-    //   description: "A responsive single-page application consuming third-party weather APIs to provide 7-day atmospheric forecasts and travel alerts.",
-    //   outcome: "Achieved sub-second load times using ES6 async/await API fetching and dynamic visual temperature charts."
-    // }
+    {
+      id: 2,
+      title: "Campus Student Marketplace",
+      role: "Full-Stack Developer",
+      image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&auto=format&fit=crop&q=80",
+      description: "A collaborative web portal for college students to securely buy, sell, and exchange used textbooks and study hardware.",
+      outcome: "Implemented secure user authentication, responsive product search, and RESTful API endpoints with MongoDB Atlas integration."
+    },
+    {
+      id: 3,
+      title: "Interactive Weather & Travel Dashboard",
+      role: "Frontend Engineer (React & API Integration)",
+      image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&auto=format&fit=crop&q=80",
+      description: "A responsive single-page application consuming third-party weather APIs to provide 7-day atmospheric forecasts and travel alerts.",
+      outcome: "Achieved sub-second load times using ES6 async/await API fetching and dynamic visual temperature charts."
+    }
   ];
 
   return (
