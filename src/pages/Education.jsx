@@ -7,26 +7,26 @@ import React from 'react';
 function Education() {
   const educationHistory = [
     {
-      degree: "Advanced Diploma in Software Engineering Technology",
+      degree: "Software Engineering Technology",
       institution: "Centennial College — School of Engineering Technology & Applied Science",
       location: "Toronto, ON",
-      dates: "Sept 2024 – Present (Expected Graduation: 2026)",
+      dates: "Sept 2026 - 2027)",
       details: [
         "Focus Areas: Web Application Development (MERN Stack), Object-Oriented Software Design, Database Systems.",
         "Key Courses: COMP 229 (Web App Dev), COMP 246 (Systems Design), COMP 214 (Advanced Databases), COMP 228 (Java).",
-        "Active member of the Software Development Club."
+        
       ]
     },
-    {
-      degree: "Ontario Secondary School Diploma (OSSD)",
-      institution: "Secondary High School",
-      location: "Ontario, Canada",
-      dates: "Graduated: June 2024",
-      details: [
-        "Honors in Computer Science, Advanced Functions, and Calculus.",
-        "Recipient of Academic Excellence Award in Computer Technology."
-      ]
-    }
+    // {
+    //   degree: "Ontario Secondary School Diploma (OSSD)",
+    //   institution: "Secondary High School",
+    //   location: "Ontario, Canada",
+    //   dates: "Graduated: June 2024",
+    //   details: [
+    //     "Honors in Computer Science, Advanced Functions, and Calculus.",
+    //     "Recipient of Academic Excellence Award in Computer Technology."
+    //   ]
+    // }
   ];
 
   return (
