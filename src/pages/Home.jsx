@@ -28,7 +28,7 @@ function Home() {
           fontWeight: '600',
           marginBottom: '16px'
         }}>
-          👋 Welcome to my Portfolio
+          👋 Hello, I am Loshika Pragasam
         </span>
 
         <h1 style={{ fontSize: '42px', color: '#0f172a', marginBottom: '16px', lineHeight: '1.2' }}>
