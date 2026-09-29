@@ -1,16 +1,24 @@
-# React + Vite
+# COMP 229 - Web Application Development
+## Assignment 1: React Personal Portfolio Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**Student Name:** Loshika Pragasam  
+**Course:** COMP 229 (SEC. 405)  
+**Professor:** Karthik Appaswamy  
 
-Currently, two official plugins are available:
+### Project Overview
+A responsive, modern Single Page Application (SPA) built using React and React Router DOM.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Implemented Pages:
+1. **Home:** Hero section, mission statement, and call-to-action buttons.
+2. **About Me:** Professional bio, candidate image, and downloadable resume link.
+3. **Projects:** 3 featured software projects detailing role, tech stack, and outcomes.
+4. **Education:** Academic qualifications, Centennial College program, and timelines.
+5. **Services:** Core software engineering and web development offerings with icons.
+6. **Contact Me:** Contact details panel and interactive form capturing state with redirection back to Home.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Technologies Used:
+- React 18
+- Vite
+- React Router DOM
+- Modern CSS3 (Flexbox & CSS Grid)
+- Git & GitHub Version Control
